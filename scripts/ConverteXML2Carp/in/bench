@@ -1,0 +1,20 @@
+*Heading
+ C:\Users\Ricardo\Dropbox\FisioComp\pos-doc\benchmark\joventino\ConverteXML2Carp\in\bench
+*NODE
+******* E L E M E N T S *************
+*ELSET,ELSET=PhysicalSurface10
+
+*ELSET,ELSET=PhysicalSurface30
+
+*ELSET,ELSET=PhysicalSurface40
+
+*ELSET,ELSET=PhysicalVolume0
+
+*NSET,NSET=PhysicalSurface10
+
+*NSET,NSET=PhysicalSurface30
+
+*NSET,NSET=PhysicalSurface40
+
+*NSET,NSET=PhysicalVolume0
+
